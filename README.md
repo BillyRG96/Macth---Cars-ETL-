@@ -11,4 +11,4 @@ Ese proyecto es desarrollado con lenguaje python, y el notebook de Jupyter. Para
 4. statistics
 
 
-Posteriormente, para la visualización de datos se cuenta con POWER BI que permite realizar tableros dinámicos con mayor potencia estética.
+Posteriormente, para la visualización de datos se cuenta con POWER BI que permite realizar tableros dinámicos con mayor potencia estética. Estas visualizaciones están disponibles en formato pdf y el documento para descargar en Power BI para permitirse evidenciar los tableros dinámicos.
